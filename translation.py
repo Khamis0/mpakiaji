@@ -2,9 +2,9 @@ class Translation(object):
     START_TEXT = """Hello,
 This is a Telegram URL Upload Bot!
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>Tafadhari Tuma URL Link, Ya moja kwa moja niku Uplodie Au nikuletee kutoka iliko kuja hapa telegram iwe audio, video au File/Video</b>
 
-/help for more details..
+/help 👈gusa hapo kupata Maelekezo zidi..
 
 Support Group : @Huduma
 © @Twuwbaa"""
