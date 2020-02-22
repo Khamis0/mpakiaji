@@ -4,8 +4,8 @@ This is a Telegram URL Upload Bot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
-Kwa maelekezo zaidi
-👇gusa hapo
+<i>Kwa maelekezo zaidi gusahapo</i>
+👇
 /help for more details..
 
 Support Group : @Huduma
@@ -48,9 +48,10 @@ Support Group : @Huduma
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-Kama Hujaelewa kazi ya Bot hii Na jinsi ya kuitumia Soma Muongozo
+<b>Kama Hujaelewa kazi ya Bot hii, Na jinsi ya kuitumia Soma Muongozo</b>
 <a href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
 Utakusaidia 👆📄
+
 <b>👉 Create own Clone Bot : </b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
 
 --------
@@ -83,6 +84,6 @@ You can use /rename command after receiving file to rename it with custom thumbn
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
-Free users only 5 request per 30 minutes.
+Free users only 5 request per 60 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
