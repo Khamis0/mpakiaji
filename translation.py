@@ -41,8 +41,9 @@ Support Group : @Huduma
 © @Twuwbaa"""
     HELP_USER = """There are multiple things I can do:
 
-<b>Kama Hujaelewa kazi ya Bot hii Na jinsi ya kuitumia Soma</b> 👉 [Muongozo](http://bit.ly/32jsRVD)
-Utakusaidia 
+<b>Kama Hujaelewa kazi ya Bot hii Na jinsi ya kuitumia Soma Muongozo link👇</b>
+https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22
+Utakusaidia 👆📄
 
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
