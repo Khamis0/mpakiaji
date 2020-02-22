@@ -40,6 +40,9 @@ Plan name : Free User
 Support Group : @Huduma
 © @Twuwbaa"""
     HELP_USER = """There are multiple things I can do:
+
+*Gusa* 👉 [Hapa](https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22)
+
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
