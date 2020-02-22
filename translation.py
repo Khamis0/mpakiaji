@@ -41,7 +41,8 @@ Support Group : @Huduma
 © @Twuwbaa"""
     HELP_USER = """There are multiple things I can do:
 
-*Gusa* 👉 [Hapa](https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22)
+<b>Kama Hujaelewa kazi ya Bot hii Na jinsi ya kuitumia Soma</b> 👉 [Muongozo](https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22)
+Utakusaidia 
 
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
@@ -51,7 +52,7 @@ Support Group : @Huduma
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot : 👉</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
+<b>👉 Create own Clone Bot : 👇</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
 
 --------
 Send /me to know current plan details
