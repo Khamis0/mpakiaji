@@ -2,6 +2,8 @@ class Translation(object):
     START_TEXT = """Hello,
 This is a Telegram URL Upload Bot!
 
+Gusa [Hapa](https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22) Kusoma Muongozo
+
 <b>Tafadhari Tuma URL Link, Ya moja kwa moja niku Uplodie Au nikuletee kutoka iliko kuja hapa telegram iwe audio, video au File/Video</b>
 
 /help 👈gusa hapo kupata Maelekezo zidi..
