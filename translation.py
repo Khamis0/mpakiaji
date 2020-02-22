@@ -4,6 +4,8 @@ This is a Telegram URL Upload Bot!
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
+Kwa maelekezo zaidi
+👇gusa hapo
 /help for more details..
 
 Support Group : @Huduma
@@ -34,7 +36,6 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name : Free User
-Expires on : 31/12/2020
 
 Support Group : @Huduma
 © @Twuwbaa"""
@@ -47,7 +48,10 @@ Support Group : @Huduma
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot : 👉</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
+Kama Hujaelewa kazi ya Bot hii Na jinsi ya kuitumia Soma Muongozo
+<a href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
+Utakusaidia 👆📄
+<b>👉 Create own Clone Bot : </b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
 
 --------
 Send /me to know current plan details
