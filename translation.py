@@ -2,11 +2,9 @@ class Translation(object):
     START_TEXT = """Hello,
 This is a Telegram URL Upload Bot!
 
-Gusa [Hapa](https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22) Kusoma Muongozo
+<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
-<b>Tafadhari Tuma URL Link, Ya moja kwa moja niku Uplodie Au nikuletee kutoka iliko kuja hapa telegram iwe audio, video au File/Video</b>
-
-/help 👈gusa hapo kupata Maelekezo zidi..
+/help for more details..
 
 Support Group : @Huduma
 © @Twuwbaa"""
@@ -36,11 +34,11 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name : Free User
+Expires on : 31/12/2020
 
 Support Group : @Huduma
 © @Twuwbaa"""
     HELP_USER = """There are multiple things I can do:
-
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
@@ -48,12 +46,8 @@ Support Group : @Huduma
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
-<b>Kama Hujaelewa kazi ya Bot hii Na jinsi ya kuitumia Soma Muongozo</b>
-<a href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO 👀</a>
-Utakusaidia 👆📄
    
-
-<b>👉 Create own Clone Bot : </b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
+<b>👉 Create own Clone Bot : 👉</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
 
 --------
 Send /me to know current plan details
@@ -85,6 +79,6 @@ You can use /rename command after receiving file to rename it with custom thumbn
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
-Free users only 1 request per 30 minutes.
+Free users only 5 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
