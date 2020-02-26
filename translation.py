@@ -33,7 +33,7 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "Nimeshindwa kuifanyia Kazi link url hii Jaribu kuituma kwa bot hawa 👉 @AnyDLBot @utubebot @uploadbot: \n {}"
+    NO_VOID_FORMAT_FOUND = "Nimeshindwa kuifanyia Kazi link Au Url hii Jaribu kuituma kwa bot hawa 👉 @AnyDLBot @utubebot @uploadbot: \n\n {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
