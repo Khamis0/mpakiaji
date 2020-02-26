@@ -39,7 +39,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name : Free User
-Expires on : 31/12/2020
+Jiunge Nasi : 🖲 @Hamisbot
 
 Support Group : @Huduma
 © @Twuwbaa"""
