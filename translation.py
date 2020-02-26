@@ -15,7 +15,7 @@ Support Group : @Huduma
 © @Twuwbaa"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "No Plans dear. Create your own URL Bot : 👉 <a href='https://github.com/TGExplore/TG-URL-Uploader'>Clone Code</a>."
+    UPGRADE_TEXT = "No Plans dear. Create your own URL Bot : ➠ <a href='https://github.com/TGExplore/TG-URL-Uploader'>Clone Code</a>."
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
@@ -24,8 +24,8 @@ URL | filename | username | password"""
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "ما شاء الله . Ingia 👇 @BestMawaidha"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nالحمد لله ✅ . Ingia 👇 @BestMawaidha \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "ما شاء الله . Ingia ☟ @BestMawaidha"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nالحمد لله ✅ . Ingia ☟ @BestMawaidha \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@Huduma</a>"
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
@@ -33,7 +33,7 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "Nimeshindwa kuifanyia Kazi link Au Url hii Jaribu kuituma kwa bot hawa 👉 @AnyDLBot @utubebot @uploadbot: \n\n {}"
+    NO_VOID_FORMAT_FOUND = "Nimeshindwa kuifanyia Kazi link Au Url hii Jaribu kuituma kwa bot hawa ☟ @AnyDLBot @utubebot @uploadbot: \n\n {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
@@ -55,9 +55,9 @@ Support Group : @Huduma
 <b>Kama Hujaelewa kazi ya Bot hii, Na jinsi ya kuitumia, Soma Muongozo</b> 
 <a
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
-Utakusaidia 👆📄
+Utakusaidia ⇧⇧📄
 
-<b>👉 Create own Clone Bot : 👉</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
+<b>➠ Create own Clone Bot : ☟</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
 
 --------
 Send /me to know current plan details
