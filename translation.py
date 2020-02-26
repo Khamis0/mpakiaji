@@ -24,8 +24,8 @@ URL | filename | username | password"""
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks . Join 👉 @BestMawaidha"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nThanks . Join 👉 @BestMawaidha \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "ما شاء الله . Ingia 👇 @BestMawaidha"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nالحمد لله ✅ . Ingia 👇 @BestMawaidha \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@Huduma</a>"
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
@@ -52,7 +52,7 @@ Support Group : @Huduma
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>Kama Hujaelewa kazi ya Bot hii Na jinsi ya kuitumia Soma Muongozo</b> 
+<b>Kama Hujaelewa kazi ya Bot hii, Na jinsi ya kuitumia, Soma Muongozo</b> 
 <a
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
 Utakusaidia 👆📄
