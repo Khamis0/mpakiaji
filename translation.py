@@ -25,7 +25,7 @@ URL | filename | username | password"""
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "ما شاء الله . Ingia ☟ @BestMawaidha"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nالحمد لله ✓ . Ingia ☟ @BestMawaidha \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nالحمد لله ✓ . Ingia ☟ @BestMawaidha\n@Huduma \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@Huduma</a>"
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
@@ -57,7 +57,7 @@ Support Group : @Huduma
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
 Utakusaidia ⇧⇧📄
 
-<b>➠ Create own Clone Bot : ☟</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
+<b>➠ Create own Clone Bot : \n   ☟</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
 
 --------
 Send /me to know current plan details
@@ -89,6 +89,6 @@ You can use /rename command after receiving file to rename it with custom thumbn
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
-Free users only 1 request per 30 minutes.
+Free users only 30 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
