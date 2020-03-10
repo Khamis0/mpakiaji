@@ -36,6 +36,7 @@ URL | filename | username | password"""
     NO_VOID_FORMAT_FOUND = "Nimeshindwa kuifanyia Kazi link Au Url hii Jaribu kuituma kwa bot hawa ☟ \n@AnyDLBot @utubebot @uploadbot: \n\n {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
+    
 --------
 Telegram ID: <code>{}</code>
 Plan name : Free User
@@ -92,3 +93,4 @@ You can use /rename command after receiving file to rename it with custom thumbn
 Free users only 30 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    HAMIS_MAJIBU = "nina /hamis jaribu kujifunza."
