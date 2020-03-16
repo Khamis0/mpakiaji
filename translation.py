@@ -19,12 +19,12 @@ Kulingana na Chaguolako.
 2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa Uliza anaejua.
 
 3. Nitumie direct Link Zenye Video,Audio,file Kutoka popote
-   Namimi nitafanya Kazi Yangu Kisha Chagua Nami nitafanya Kazi yangu In Shaa Allah.
+   Kisha Chagua Nami nitafanya Kazi yangu, In Shaa Allah.
 
 4. Soma 👇MUONGOZO Kwa Maelekezo Zaidi Kama BADO huja elewa
 <a
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
-
+------------√
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
