@@ -3,8 +3,8 @@ class Translation(object):
 Allah Akujaalie Wepesi Kunielewa Na kunitumia
 
 🤖 **KAZI YANGU**
-Nina Uwezo Mkubwa Wa Ku, Upload ⬆️.
-
+Nina Uwezo Mkubwa
+Wa Ku, Upload ⬆️.
 Video 📹
 Audio 🎧
 File n.k **BURE** 🆓 Bila kutumia MB Au Bando Lako
