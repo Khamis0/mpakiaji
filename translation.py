@@ -1,23 +1,31 @@
 class Translation(object):
     START_TEXT = """**KARIBU** 
+Allah Akujaalie Wepesi Kunielewa Na kunitumia
 
-**USITUMIE TENA MB(BANDO LAKO)** Hiyo kazi nipe mimi
+🤖 **KAZI YANGU**
+Nina Uwezo Mkubwa Wa Ku, Upload ⬆️
+Video 📹
+Audio 🎧
+File n.k
+**BURE** 🆓 Bila kutumia MB Au Bando Lako
 
-Nitumie Link 🔗 Au URL Kutoka Youtube. Nami nitakutumia 📲 Video  Au Audio 🎧 Yake 🆓
+**CHAKUFANYA**
+Mfano: Nitumie Link 🔗 Au URL Kutoka Youtube. Nami nitakutumia 📲 Video Au Audio 🎧
+Kulingana na uchaguzi wako. Ukitaka Audio au Video
 
-Mimi Bot Kazi Yangu Ni Ku,Upload ⬆️ Video, Audio, File N.K Kazi hiinaifanya Bure 🆓 bila kutumia MB Au Bando Lako
-
-**Nitumie Link** Kutoka Popote **Sharti** Hiyo link yaki iwe ya video, Audio au File
-Nitaku Uplodia ⬆️ Buree 🆓
-
-Soma 👇 Kwa Maelekezo Zaidi Kama huja elewa
+**UWEZO WANGU**
+1. Huduma hii naifanya Bure 🆓.
+2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa Uliza anaejua.
+3. Nitumie direct Link Zenye Video,Audio,file Kutoka popote
+   Namimi nitafanya Kazi Yangu Allah Akufamishe.
+4. Soma 👇 Kwa Maelekezo Zaidi Kama huja elewa
 <a
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
 
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
-/help for more details..
+Gusa hapa 👉/help for more details.
 
 Support Group : @Huduma
 © @Twuwbaa"""
