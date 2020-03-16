@@ -1,34 +1,15 @@
 class Translation(object):
-    START_TEXT = """**KARIBU** 
-Allah Akujaalie Wepesi Kunielewa Na kunitumia
+    START_TEXT = """Hello,
+This is a Telegram URL Upload Bot!
 
-🤖 **KAZI YANGU**
-Nina Uwezo Mkubwa
-Wa Ku, Upload ⬆️.
-Video 📹
-Audio 🎧
-File n.k **BURE** 🆓 Bila kutumia MB Au Bando Lako
-
-**CHAKUFANYA**
-Mfano: Nitumie Link 🔗 Au URL Kutoka Youtube. Nami nitakutumia Video/Audio
-Kulingana na Chaguolako.
-
-**UWEZO WANGU**
-1. Huduma hii naifanya Bure 🆓.
-
-2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa Uliza anaejua.
-
-3. Nitumie direct Link Zenye Video,Audio,file Kutoka popote
-   Kisha Chagua Nami nitafanya Kazi yangu, In Shaa Allah.
-
-4. Soma 👇MUONGOZO Kwa Maelekezo Zaidi Kama BADO huja elewa
+Soma
 <a
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
-------------√
+
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
-Gusa hapa 👉/help for more details.
+/help for more details..
 
 Support Group : @Huduma
 © @Twuwbaa"""
@@ -39,12 +20,12 @@ Support Group : @Huduma
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "Subilia"
-    UPLOAD_START = "Nina upload "
+    DOWNLOAD_START = "trying to download"
+    UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "ما شاء الله . Ingia ☟ @BestMawaidha"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nالحمد لله ✓ . Ingia ☟ @BestMawaidha \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nالحمد لله ✓ . Ingia ☟ @BestMawaidha\n@Huduma \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@Huduma</a>"
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
@@ -52,7 +33,7 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = "Nimeshindwa kuifanyia Kazi link Au Url hii Jaribu kuituma kwa bot hawa ☟ \n@AnyDLBot @utubebot @uploadbot @megadlbot: \n\n {}"
+    NO_VOID_FORMAT_FOUND = "Nimeshindwa kuifanyia Kazi link Au Url hii Jaribu kuituma kwa bot hawa ☟ \n@AnyDLBot @utubebot @uploadbot: \n\n {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
@@ -76,7 +57,7 @@ Support Group : @Huduma
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
 Utakusaidia ⇧⇧📄
 
-<b>➠ Create own Clone Bot : ☟</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
+<b>➠ Create own Clone Bot : \n   ☟</b> <a href='https://youtu.be/QkAkSLBgoYw'>Deploy</a>
 
 --------
 Send /me to know current plan details
@@ -108,6 +89,6 @@ You can use /rename command after receiving file to rename it with custom thumbn
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
-Free users only 1 request per 30 minutes.
+Free users only 30 request per 30 minutes.
 /upgrade or Try 1800 seconds later."""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
