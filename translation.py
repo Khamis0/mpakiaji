@@ -19,12 +19,12 @@ Kulingana na Chaguolako.
 2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa Uliza anaejua.
 
 3. Nitumie direct Link Zenye Video,Audio,file Kutoka popote
-   Namimi nitafanya Kazi Yangu Allah Akufamishe.
+   Namimi nitafanya Kazi Yangu Kisha Chagua Nami nitafanya Kazi yangu In Shaa Allah.
 
-4. Soma 👇 Kwa Maelekezo Zaidi Kama huja elewa
+4. Soma 👇MUONGOZO Kwa Maelekezo Zaidi Kama BADO huja elewa
 <a
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
-ــــــــــــــــــــــــــــــ
+
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
@@ -39,8 +39,8 @@ Support Group : @Huduma
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "trying to download"
-    UPLOAD_START = "trying to upload"
+    DOWNLOAD_START = "Subilia"
+    UPLOAD_START = "Nina upload "
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "ما شاء الله . Ingia ☟ @BestMawaidha"
