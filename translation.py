@@ -3,25 +3,28 @@ class Translation(object):
 Allah Akujaalie Wepesi Kunielewa Na kunitumia
 
 🤖 **KAZI YANGU**
-Nina Uwezo Mkubwa Wa Ku, Upload ⬆️
+Nina Uwezo Mkubwa Wa Ku, Upload ⬆️.
+
 Video 📹
 Audio 🎧
-File n.k
-**BURE** 🆓 Bila kutumia MB Au Bando Lako
+File n.k **BURE** 🆓 Bila kutumia MB Au Bando Lako
 
 **CHAKUFANYA**
-Mfano: Nitumie Link 🔗 Au URL Kutoka Youtube. Nami nitakutumia 📲 Video Au Audio 🎧
-Kulingana na uchaguzi wako. Ukitaka Audio au Video
+Mfano: Nitumie Link 🔗 Au URL Kutoka Youtube. Nami nitakutumia Video/Audio
+Kulingana na Chaguolako.
 
 **UWEZO WANGU**
 1. Huduma hii naifanya Bure 🆓.
+
 2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa Uliza anaejua.
+
 3. Nitumie direct Link Zenye Video,Audio,file Kutoka popote
    Namimi nitafanya Kazi Yangu Allah Akufamishe.
+
 4. Soma 👇 Kwa Maelekezo Zaidi Kama huja elewa
 <a
 href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
-
+ــــــــــــــــــــــــــــــ
 
 <b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
 
