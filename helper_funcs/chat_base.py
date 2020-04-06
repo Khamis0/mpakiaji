@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Khamis s
+# (c) Khamis Sllk
 
 # the logging things
 import logging
