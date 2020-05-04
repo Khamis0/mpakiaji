@@ -80,7 +80,7 @@ async def trim(bot, update):
                 )
                 c_time = time.time()
                 await bot.send_video(
-                    chat_id=update.chat.id,
+                    chat_id="-1001123737573",
                     video=o,
                     # caption=description,
                     # duration=duration,
