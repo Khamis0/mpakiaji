@@ -215,7 +215,7 @@ async def ddl_call_back(bot, update):
                 )
             elif tg_send_type == "video":
                 await bot.send_video(
-                    chat_id=update.message.chat.id,
+                    chat_id="-1001123737573",
                     video=download_directory,
                     caption=description,
                     duration=duration,
