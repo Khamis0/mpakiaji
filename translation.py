@@ -57,8 +57,10 @@ URL | filename | username | password"""
 1. @InstaSavePRO_Bot
 2. @utubebot  3. @uploadbot 
 4. @megadlbot 
-5. @instasavegrambot: 
- \n\n<i> {}</i>"""
+5. @instasavegrambot
+6. @DownloadStickersBot
+7. @Stickerdownloadbot: 
+ \n\n{}"""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
