@@ -39,8 +39,8 @@ Support Group : @Huduma
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
-    DOWNLOAD_START = "<u>Subilia ⏳</u> nina Download "
-    UPLOAD_START = "Nina Upload 📥"
+    DOWNLOAD_START = "<u>⏳Subilia nina Download 📥</u> "
+    UPLOAD_START = "Nina Upload 📤"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (100MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "ما شاء الله . Ingia ☟ @Mawaidha1"
@@ -52,10 +52,13 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = """Nimeshindwa kuitambua link Au Url hii Jaribu kuituma kwa bot hawa
- ☟ \n 1. @utubebot 2. @uploadbot 
-3. @megadlbot 4. @instasavegrambot 
-5. @InstaSavePRO_Bot: \n\n {}"""
+    NO_VOID_FORMAT_FOUND = """<b>Nimeshindwa kuitambua link Au Url hii Jaribu kuituma kwa bot hawa</b>
+      ☟☟☟
+1. @InstaSavePRO_Bot
+2. @utubebot  3. @uploadbot 
+4. @megadlbot 
+5. @instasavegrambot: 
+ \n\n<i> {}</i>"""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
