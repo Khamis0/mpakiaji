@@ -54,12 +54,20 @@ URL | filename | username | password"""
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = """<b>Nimeshindwa kuitambua link Au Url hii Jaribu kuituma kwa bot hawa</b>
       ☟☟☟
-1. @InstaSavePRO_Bot
-2. @utubebot  3. @uploadbot 
-4. @megadlbot 
-5. @instasavegrambot
+    <b><u>Youtube</u></b>
+1. @utubebot
+
+   <b><u>Instagram</u></b>
+2. @InstaSavePRO_Bot
+3. @instasavegrambot
+
+   <b><u>Direct Link</u></b>
+4. @uploadbot 
+5. @megadlbot 
+
+     <b><u>Stickers</u></b>
 6. @DownloadStickersBot
-7. @Stickerdownloadbot: 
+7. @Stickerdownloadbot:
  \n\n{}"""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
