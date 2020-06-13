@@ -16,7 +16,7 @@ Kulingana na Chaguolako.
 **UWEZO WANGU**
 1. Huduma hii naifanya Bure 🆓.
 
-2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa Uliza anaejua.
+2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa \nUliza Kupitia hapa ➠@KhamissBot.
 
 3. Nitumie direct Link Zenye Video,Audio,file Kutoka popote
    Kisha Chagua Nami nitafanya Kazi yangu, In Shaa Allah.
