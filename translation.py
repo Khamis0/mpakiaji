@@ -1,37 +1,5 @@
 class Translation(object):
-    START_TEXT = """**KARIBU** 
-Allah Akujaalie Wepesi Kunielewa Na kunitumia
-
-🤖 **KAZI YANGU**
-Nina Uwezo Mkubwa
-Wa Ku, Upload ⬆️.
-Video 📹
-Audio 🎧
-File n.k **BURE** 🆓 Bila kutumia MB Au Bando Lako
-
-**CHAKUFANYA**
-Mfano: Nitumie Link 🔗 Au URL Kutoka Youtube. Nami nitakutumia Video/Audio
-Kulingana na Chaguolako.
-
-**UWEZO WANGU**
-1. Huduma hii naifanya Bure 🆓.
-
-2. Kazi yangu mimi ni Uploader ⬆️ usipoelewa \nUliza Kupitia hapa ➠@KhamissBot.
-
-3. Nitumie direct Link Zenye Video,Audio,file Kutoka popote
-   Kisha Chagua Nami nitafanya Kazi yangu, In Shaa Allah.
-
-4. Soma 👇MUONGOZO Kwa Maelekezo Zaidi Kama BADO huja elewa
-<a
-href='https://telegra.ph/Upload-Audio-File-Video-BUREE-02-22'>MUONGOZO  👀</a>
-------------√
-
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
-
-Gusa hapa 👉/help for more details.
-
-Support Group : @Huduma
-© @Twuwbaa"""
+    START_TEXT = "**Karibu**"
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "No Plans dear. Create your own URL Bot : ➠ <a href='https://github.com/TGExplore/TG-URL-Uploader'>Clone Code</a>."
@@ -52,23 +20,7 @@ URL | filename | username | password"""
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
-    NO_VOID_FORMAT_FOUND = """<b>Nimeshindwa kuitambua link Au Url hii Jaribu kuituma kwa bot hawa</b>
-      ☟☟☟
-    <b><u>Youtube</u></b>
-1. @utubebot
-
-   <b><u>Instagram</u></b>
-2. @InstaSavePRO_Bot
-3. @instasavegrambot
-
-   <b><u>Direct Link</u></b>
-4. @uploadbot 
-5. @megadlbot 
-
-     <b><u>Stickers</u></b>
-6. @DownloadStickersBot
-7. @Stickerdownloadbot:
- \n\n{}"""
+    NO_VOID_FORMAT_FOUND = "{}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_PLAN_DETAILS = """Current plan details
 --------
