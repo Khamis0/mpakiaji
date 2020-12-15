@@ -1,3 +1,10 @@
+# Huduma chat
+
+Mpakiaji
+|--|
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Khamis0/mpakiaji)
+
+
 ## [Mpakiaji]() - 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
